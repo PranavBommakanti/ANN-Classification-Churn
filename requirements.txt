@@ -1,4 +1,4 @@
-tensorflow==2.19.0
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.16.1-cp313-cp313-manylinux2014_x86_64.whl
 pandas
 numpy
 scikit-learn
