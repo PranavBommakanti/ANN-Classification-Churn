@@ -1,4 +1,4 @@
-tensorflow @ https://github.com/bbaron/tensorflow-wheels/releases/download/v2.15.0-cp313/tensorflow-2.15.0-cp313-cp313-manylinux2014_x86_64.whl
+tensorflow==2.19.0
 pandas
 numpy
 scikit-learn
